@@ -1,0 +1,11 @@
+C:\Users\BETO\Documents\OCTAVO SEMESTRE\DESARROLLO DE SISTEMAS EN RED\PidDeProceso\PidDeProceso\bin\Debug\netcoreapp3.1\PidDeProceso.exe
+C:\Users\BETO\Documents\OCTAVO SEMESTRE\DESARROLLO DE SISTEMAS EN RED\PidDeProceso\PidDeProceso\bin\Debug\netcoreapp3.1\PidDeProceso.deps.json
+C:\Users\BETO\Documents\OCTAVO SEMESTRE\DESARROLLO DE SISTEMAS EN RED\PidDeProceso\PidDeProceso\bin\Debug\netcoreapp3.1\PidDeProceso.runtimeconfig.json
+C:\Users\BETO\Documents\OCTAVO SEMESTRE\DESARROLLO DE SISTEMAS EN RED\PidDeProceso\PidDeProceso\bin\Debug\netcoreapp3.1\PidDeProceso.runtimeconfig.dev.json
+C:\Users\BETO\Documents\OCTAVO SEMESTRE\DESARROLLO DE SISTEMAS EN RED\PidDeProceso\PidDeProceso\bin\Debug\netcoreapp3.1\PidDeProceso.dll
+C:\Users\BETO\Documents\OCTAVO SEMESTRE\DESARROLLO DE SISTEMAS EN RED\PidDeProceso\PidDeProceso\bin\Debug\netcoreapp3.1\PidDeProceso.pdb
+C:\Users\BETO\Documents\OCTAVO SEMESTRE\DESARROLLO DE SISTEMAS EN RED\PidDeProceso\PidDeProceso\obj\Debug\netcoreapp3.1\PidDeProceso.csprojAssemblyReference.cache
+C:\Users\BETO\Documents\OCTAVO SEMESTRE\DESARROLLO DE SISTEMAS EN RED\PidDeProceso\PidDeProceso\obj\Debug\netcoreapp3.1\PidDeProceso.AssemblyInfoInputs.cache
+C:\Users\BETO\Documents\OCTAVO SEMESTRE\DESARROLLO DE SISTEMAS EN RED\PidDeProceso\PidDeProceso\obj\Debug\netcoreapp3.1\PidDeProceso.AssemblyInfo.cs
+C:\Users\BETO\Documents\OCTAVO SEMESTRE\DESARROLLO DE SISTEMAS EN RED\PidDeProceso\PidDeProceso\obj\Debug\netcoreapp3.1\PidDeProceso.dll
+C:\Users\BETO\Documents\OCTAVO SEMESTRE\DESARROLLO DE SISTEMAS EN RED\PidDeProceso\PidDeProceso\obj\Debug\netcoreapp3.1\PidDeProceso.pdb
